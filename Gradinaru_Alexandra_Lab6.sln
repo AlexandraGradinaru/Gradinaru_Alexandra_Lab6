@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradinaru_Alexandra_Lab6", "Gradinaru_Alexandra_Lab6.csproj", "{856989D4-BE0A-4590-A4AD-AD7B0FDEBC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel1", "..\AutoLotModel1\AutoLotModel1.csproj", "{44F8CE0D-C9C8-418C-844B-A15903B0DDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856989D4-BE0A-4590-A4AD-AD7B0FDEBC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856989D4-BE0A-4590-A4AD-AD7B0FDEBC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856989D4-BE0A-4590-A4AD-AD7B0FDEBC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856989D4-BE0A-4590-A4AD-AD7B0FDEBC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F8CE0D-C9C8-418C-844B-A15903B0DDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F8CE0D-C9C8-418C-844B-A15903B0DDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F8CE0D-C9C8-418C-844B-A15903B0DDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F8CE0D-C9C8-418C-844B-A15903B0DDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B98A9FD-1246-4A7D-B8DA-465969E62274}
+	EndGlobalSection
+EndGlobal
